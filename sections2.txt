@@ -1,0 +1,14 @@
+5	CSE_A	cn	cd	la	ai	dbms	-   	-   	-   	-   	-
+5	CSE_B	cn	cd	la	ai	dbms  -	-	-   	-   	-
+5	CSE_C	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_D	cn	cd	la	ai	dbms  -   	-   	-     -   	-
+5	CSE_E	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_F	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_G	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_H	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_I	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_J	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_K	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	CSE_L	cn	cd	la	ai	dbms  -   	-   	-   	-   	-
+5	ECE_A	ac	emb	mpmc 	aiml 	miap  -   	-   	-   	- 	-
+5	ECE_B	ac	emb	mpmc 	aiml 	miap  -   	-   	-   	- 	- 
